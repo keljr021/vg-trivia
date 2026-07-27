@@ -1,16 +1,17 @@
 <template>
-  <template v-for="(trivia, index) in triviaList">
+
+  
+
+
+
+  <template v-for="(trivia, index) in list">
     <trivia-list-item :trivia="trivia" />
   </template>
 </template>
 
 <script setup>
 import TriviaListItem from './TriviaListItem.vue'
+import triviaList from '../data/triviaList.json'
 
-const triviaList = [
-  { question: 'What is the capital of France?', answer: 'Paris' },
-  { question: 'What is the largest planet in our solar system?', answer: 'Jupiter' },
-  { question: 'Who wrote "To Kill a Mockingbird"?', answer: 'Harper Lee' },
-]
-
+const { list } = triviaList;
 </script>
