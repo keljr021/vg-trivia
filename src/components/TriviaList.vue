@@ -1,7 +1,7 @@
 <template>
   <div class="grid sm:grid-cols-4 md:grid-cols-12 gap-3">
-    <div v-for="(item, i) in list" :key="i">
-        <trivia-list-item :trivia="item" :number="(i+1)" />
+    <div v-for="i in total" :key="i">
+        <trivia-list-item :number="(i+1)" />
     </div>
   </div>
 </template>
@@ -10,5 +10,5 @@
 import TriviaListItem from './TriviaListItem.vue'
 import { triviaList as listData } from '../data/triviaList.js'
 
-const { list } = listData;
+const total = listData.list.length;
 </script>
