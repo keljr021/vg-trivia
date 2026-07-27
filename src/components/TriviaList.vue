@@ -1,7 +1,7 @@
 <template>
   <div class="grid sm:grid-cols-4 md:grid-cols-12 gap-3">
     <div v-for="i in total" :key="i">
-        <trivia-list-item :number="(i+1)" />
+        <trivia-list-item :number="(i)" />
     </div>
   </div>
 </template>
