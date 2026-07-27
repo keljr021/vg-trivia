@@ -1,5 +1,5 @@
 <template>
-   <div class="trivia-list-item rounded-lg shadow-md" @click="handleClick">
+   <div :class="{'trivia-list-item rounded-lg shadow-md':true, 'selected': isSelected }" @click="handleClick">
         <div class="trivia-list-item-key">
             {{ number }}
         </div>
@@ -7,18 +7,27 @@
 </template>
 
 <script setup>
-import { toRef, computed } from 'vue'
+import { useTallyStore } from './../store/tally.js';
 import { useRouter } from 'vue-router'
 
+const tallyStore = useTallyStore();
 const router = useRouter();
 
 const props = defineProps({
   number: {
     type: Number
+  },
+  isSelected: {
+    type: Boolean,
+    default: false,
   }
 });
 
-const handleClick = () => {
-    router.push(`/view/${props.number}`);
+const handleClick = async () => {
+    if (props.number) {
+        const arrayIdx = props.number - 1; //Array starts with zero
+        await tallyStore.setSelectedValue(arrayIdx);
+        router.push(`/view/${arrayIdx}`);
+    }
 };
 </script>
