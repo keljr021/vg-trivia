@@ -1,7 +1,7 @@
 <template>
-  <TriviaList />
+  <Trivia />
 </template>
 
 <script setup>
-import TriviaList from './components/TriviaList.vue'
+import Trivia from './pages/Trivia.vue'
 </script>

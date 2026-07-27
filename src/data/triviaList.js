@@ -1,4 +1,4 @@
-{
+export const triviaList = {
     "list": [
     {
         "quote":  "One of the best things in life, filling your belly.",

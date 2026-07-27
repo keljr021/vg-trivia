@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+.trivia-list {
+    margin: 0 auto;
+}
+
+.trivia-list-item {
+    border: 1px solid #999;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.trivia-list-item:hover {
+    background-color: #bbb;
+}
+
+.trivia-list-item-key {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.trivia-list-item.selected {
+    opacity: 0.35;
+}
