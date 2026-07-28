@@ -19,12 +19,19 @@ const total = listData.list.length;
 
 
 const checkIfAlreadySelected = (id) => {
-  let array = selectedValues.value;
+  let array = (selectedValues.value).toString();
   return array.includes(id-1);
 } 
 
 onMounted(() => {
-  let fromStore = tallyStore.getSelected;
+  let fromStore = [];
+  let valuesFromStorage = localStorage.selectedValues;
+  
+  if (valuesFromStorage)
+    fromStore = valuesFromStorage.split(',');
+  else
+    fromStore = tallyStore.getSelected;
+
   selectedValues.value = fromStore;
 })
 

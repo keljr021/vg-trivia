@@ -25,8 +25,8 @@ const props = defineProps({
 
 const handleClick = async () => {
     if (props.number) {
-        const arrayIdx = props.number - 1; //Array starts with zero
-        await tallyStore.setSelectedValue(arrayIdx);
+        const arrayIdx = props.number;
+        await tallyStore.setSelectedValue(arrayIdx-1);
         router.push(`/view/${arrayIdx}`);
     }
 };

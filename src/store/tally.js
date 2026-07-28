@@ -10,6 +10,8 @@ export const useTallyStore = defineStore('tally', {
     actions: {
         setSelectedValue(id) {
             this.selected.push(id);
+            localStorage.selectedValues = this.getSelected;
+            console.log('selected values: ', this.getSelected);
         }
     },
 
