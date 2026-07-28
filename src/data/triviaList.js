@@ -327,7 +327,7 @@ export const triviaList = {
     {
         "quote":  "I am one of the four Rocket brothers!",
         "game":  "Pokemon Red and Blue / Pokemon FireRed and LeafGreen",
-        "image":  "-",
+        "image":  "https://i.ytimg.com/vi/OpOzdM5sq90/sddefault.jpg",
         "voice":  null
     },
     {
@@ -381,7 +381,7 @@ export const triviaList = {
     {
         "quote":  "That was too close. You were almost a Jill sandwich!",
         "game":  "Resident Evil",
-        "image":  "",
+        "image":  "https://i.ytimg.com/vi/63SBcSFq3BU/mqdefault.jpg",
         "voice":  null
     },
     {
@@ -411,7 +411,7 @@ export const triviaList = {
     {
         "quote":  "Let\u0027s blast right through with Sonic speed! O-K! All right!",
         "game":  "Sonic Heroes",
-        "image":  "-",
+        "image":  "https://i.ytimg.com/vi/VgLFWdh7s00/hqdefault.jpg",
         "voice":  null
     },
     {
@@ -435,7 +435,7 @@ export const triviaList = {
     {
         "quote":  "You must defeat Sheng Long to stand a chance.",
         "game":  "Street Fighter 2",
-        "image":  "",
+        "image":  "https://i.imgur.com/rc3l8si.jpeg",
         "voice":  null
     },
     {

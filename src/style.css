@@ -25,6 +25,10 @@
     opacity: 0.35;
 }
 
+.view-item {
+
+}
+
 .view-item-button {
     border: 1px solid #ccc;
     border-radius: 10px;
