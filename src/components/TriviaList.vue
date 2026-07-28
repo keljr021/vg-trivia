@@ -1,7 +1,10 @@
 <template>
   <div class="grid sm:grid-cols-4 md:grid-cols-12 gap-3">
     <div v-for="i in total" :key="i">
-        <trivia-list-item :number="(i)" :isSelected="checkIfAlreadySelected(i)" />
+        <trivia-list-item 
+          :number="(i)" 
+          :isSelected="checkIfAlreadySelected(i)" 
+          :hasAudio="checkIfItemHasAudio(i)" />
     </div>
   </div>
 </template>
@@ -19,9 +22,21 @@ const total = listData.list.length;
 
 
 const checkIfAlreadySelected = (id) => {
-  let array = (selectedValues.value).toString();
-  return array.includes(id-1);
+  let array = selectedValues.value;
+  let wasAlreadySelected = false;
+  if (array.length) {
+    array.forEach(item => {      
+      if (item === (id-1).toString())
+        wasAlreadySelected = true;
+    });
+  } 
+  return wasAlreadySelected;
 } 
+
+const checkIfItemHasAudio = (id) => {
+  let targetItem = listData.list[id-1];
+  return !!(targetItem.voice);
+}
 
 onMounted(() => {
   let fromStore = [];

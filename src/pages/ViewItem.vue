@@ -7,7 +7,7 @@
             
             <div v-if="item.voice">
                 <button class="view-item-button" @click="playVoice">
-                    <BoomBox />
+                    <Headphones />
                 </button>
             </div>
 
@@ -35,7 +35,8 @@
 import { ref, onMounted } from 'vue'
 import { useRouter } from 'vue-router'
 import { triviaList as listData } from './../data/triviaList.js'
-import { BoomBox } from '@lucide/vue';
+import { Headphones } from '@lucide/vue';
+import defaultVoiceSrc from './../audio/jill-sandwitch.ogg';
 
 const router = useRouter();
 const item = ref({});
@@ -55,8 +56,27 @@ const fetchItem = async (id) => {
     item.value = triviaItem;
 };
 
-const playVoice = () => {
+const playVoice = async () => {
     console.log('play voice clicked.');
+
+    let resolvedVoiceSrc = defaultVoiceSrc;
+
+    if (item.value?.voice) {
+        try {
+            resolvedVoiceSrc = (await import(`./../audio/${item.value.voice}.ogg`)).default;
+        } catch (error) {
+            console.error('Failed to import voice asset:', error);
+        }
+    }
+
+    const voice = new Audio(resolvedVoiceSrc);
+    voice.play().then(() => {
+      console.log("Audio playing successfully.");
+    })
+    .catch((error) => {
+      // Catching NotSupportedError or NotAllowedError
+      console.error("Playback failed:", error.name, error.message);
+    });
 }
 
 const clickAnswerButton = () => {

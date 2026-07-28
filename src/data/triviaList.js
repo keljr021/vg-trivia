@@ -382,7 +382,7 @@ export const triviaList = {
         "quote":  "That was too close. You were almost a Jill sandwich!",
         "game":  "Resident Evil",
         "image":  "https://i.ytimg.com/vi/63SBcSFq3BU/mqdefault.jpg",
-        "voice":  null
+        "voice":  "jill-sandwitch"
     },
     {
         "quote":  "Where\u0027s that damn fourth Chaos Emerald?",
