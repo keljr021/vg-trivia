@@ -8,38 +8,6 @@ export const videoGameQuotes = [
     "voice": "absolum-one-of-the-best"
   },
   {
-    "quote": "Death is just another step on your journey.",
-    "game": "Absolum",
-    "platform": "Multi-Platform",
-    "year": "2025",
-    "image": "https://cdn.mos.cms.futurecdn.net/aNta9xH6NkuGkRhdVqNMCe.jpg",
-    "voice": "absolum-death-is"
-  },
-  {
-    "quote": "Rise from your grave.",
-    "game": "Altered Beast",
-    "platform": "Sega Genesis, Arcade",
-    "year": "1988",
-    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/altered-beast/d/dc/Level_1.jpg",
-    "voice": "altered-beast-rise"
-  },
-  {
-    "quote": "What a horrible night to have a curse.",
-    "game": "Castlevania II: Simon's Quest",
-    "platform": "NES",
-    "year": "1987",
-    "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2020/02/Castlevania-II-Curse-Warning-Screen.jpg?w=1200&h=675&fit=crop",
-    "voice": null
-  },
-  {
-    "quote": "Die monster! You don't belong in this world!",
-    "game": "Castlevania: Symphony of the Night",
-    "platform": "PS1",
-    "year": "1997",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBw0ClhNzu25vCf_eMlTpyTYiqR96SKTR8GKC1cJmyispo0twqbEfYQwwR&s=10",
-    "voice": "castlevania-die-monster"
-  },
-  {
     "quote": "What is a man? A miserable little pile of secrets.",
     "game": "Castlevania: Symphony of the Night",
     "platform": "PS1",
@@ -64,108 +32,12 @@ export const videoGameQuotes = [
     "voice": null
   },
   {
-    "quote": "Hey little guy, it's O.K. if you have to cry!",
-    "game": "Cuphead",
-    "platform": "Multi-Platform",
-    "year": "2017",
-    "image": "https://i.ytimg.com/vi/yhq3hdepBsQ/hqdefault.jpg",
-    "voice": null
-  },
-  {
-    "quote": "I own the air -- I fly where eagles dare!",
-    "game": "Cuphead",
-    "platform": "Multi-Platform",
-    "year": "2017",
-    "image": "https://i.ytimg.com/vi/O-pz2IMYdNs/hqdefault.jpg",
-    "voice": null
-  },
-  {
-    "quote": "Looks like this is gonna be one hell of a party!",
-    "game": "Devil May Cry 3: Dante's Awakening",
-    "platform": "PS2",
-    "year": "2005",
-    "image": "https://i.ytimg.com/vi/7esod1BFJuI/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AG-B4AC0AWKAgwIABABGGUgYyhEMA8=&rs=AOn4CLAo6b59-tB5iQj2apJ1T8W981QMCw",
-    "voice": "devil-may-cry-3"
-  },
-  {
-    "quote": "HOW HIGH CAN YOU GET?",
-    "game": "Donkey Kong",
-    "platform": "Arcade, NES",
-    "year": "1981",
-    "image": "https://pbs.twimg.com/media/Gt0DcRcWsAANfDp.jpg",
-    "voice": null
-  },
-  {
-    "quote": "I've kidnapped that lumbering fool _ and you will never see him again! Har-har-har-har!",
-    "game": "Donkey Kong Country 2",
-    "platform": "SNES",
-    "year": "1995",
-    "image": "https://share.google/p0JaMpdwohD3xv1bB",
-    "voice": null
-  },
-  {
-    "quote": "You got boost power!",
-    "game": "F-Zero X",
-    "platform": "N64",
-    "year": "1998",
-    "image": "",
-    "voice": "f-zero-you-got-boost"
-  },
-  {
-    "quote": "You spoony bard!",
-    "game": "Final Fantasy IV",
-    "platform": "SNES",
-    "year": "1991",
-    "image": "https://legendsoflocalization.com/wp-content/uploads/2018/07/spoony-bard-translation.png",
-    "voice": null
-  },
-  {
-    "quote": "Congraturation! This story is happy end. Thank you.",
-    "game": "Ghosts 'n Goblins",
-    "platform": "Arcade, NES",
-    "year": "1985",
-    "image": "https://i.ytimg.com/vi/1DKktpamPCU/sddefault.jpg",
-    "voice": null
-  },
-  {
-    "quote": "Hope is what makes us strong. It is why we are here. It is what we fight with when all else is lost.",
-    "game": "God of War III",
-    "platform": "PS3",
-    "year": "2010",
-    "image": "https://i.ytimg.com/vi/FTqjdyZsitk/maxresdefault.jpg",
-    "voice": "god-of-war-3"
-  },
-  {
-    "quote": "What kind of a *** animal you take me for? No I didn't kill him. But I did kidnap his wife!!",
-    "game": "GTA 5",
-    "platform": "Multi-Platform",
-    "year": "2013",
-    "image": "https://i.ytimg.com/vi/ZjKZcE-ktL0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDpIukR_BYNk73lB-wXuCGflXrnLw",
-    "voice": "gta5-what-kind-of"
-  },
-  {
-    "quote": "OH I love you! Oh let me take you away from all this...!",
-    "game": "GTA 5",
-    "platform": "Multi-Platform",
-    "year": "2013",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB87GDKmfRH4dpzFIHe3vq9v-y0MrkF-dfNIyDYh05Iw&s",
-    "voice": "gta5-oh-i-love-you"
-  },
-  {
     "quote": "All we had to do is follow the damn train CJ!",
     "game": "GTA: San Andreas",
     "platform": "PS2, Xbox",
     "year": "2004",
     "image": "https://i.ytimg.com/vi/cF3GK_sfPVM/maxresdefault.jpg",
     "voice": "gta-sa-all-we-had"
-  },
-  {
-    "quote": "Ah shit, here we go again.",
-    "game": "GTA: San Andreas",
-    "platform": "PS2, Xbox",
-    "year": "2004",
-    "image": "https://en.meming.world/images/en/6/62/Ah_Shit%2C_Here_We_Go_Again.jpg",
-    "voice": "gta-sa-ah-shit"
   },
   {
     "quote": "The right man in the wrong place can make all the difference in the world.",
@@ -176,20 +48,20 @@ export const videoGameQuotes = [
     "voice": "half-life-2"
   },
   {
-    "quote": "Sir… Finishing this fight.",
-    "game": "Halo 2",
-    "platform": "Xbox",
-    "year": "2004",
+    "quote": "You got boost power!",
+    "game": "F-Zero X",
+    "platform": "N64",
+    "year": "1998",
     "image": "",
-    "voice": "halo-2-sir-finishing"
+    "voice": "f-zero-you-got-boost"
   },
   {
-    "quote": "Me. Inside your head. Now.",
-    "game": "Halo 2",
-    "platform": "Xbox",
-    "year": "2004",
-    "image": "https://i.ytimg.com/vi/A5UH7qYZjRg/oar2.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLAgrYTm48A5o3EHONtBZ6NVMsuUGQ&usqp=CCk",
-    "voice": "halo-2-me"
+    "quote": "I will leave you to prepare.",
+    "game": "Hitman",
+    "platform": "Multi-Platform",
+    "year": "2016",
+    "image": "",
+    "voice": "hitman-i-will-leave"
   },
   {
     "quote": "Press X to Jason",
@@ -200,12 +72,20 @@ export const videoGameQuotes = [
     "voice": null
   },
   {
-    "quote": "I will leave you to prepare.",
-    "game": "Hitman",
-    "platform": "Multi-Platform",
-    "year": "2016",
-    "image": "",
-    "voice": "hitman-i-will-leave"
+    "quote": "Rise from your grave.",
+    "game": "Altered Beast",
+    "platform": "Sega Genesis, Arcade",
+    "year": "1988",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/altered-beast/d/dc/Level_1.jpg",
+    "voice": "altered-beast-rise"
+  },
+  {
+    "quote": "Die monster! You don't belong in this world!",
+    "game": "Castlevania: Symphony of the Night",
+    "platform": "PS1",
+    "year": "1997",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBw0ClhNzu25vCf_eMlTpyTYiqR96SKTR8GKC1cJmyispo0twqbEfYQwwR&s=10",
+    "voice": "castlevania-die-monster"
   },
   {
     "quote": "I don't need a weapon. My friends are my power!",
@@ -236,7 +116,7 @@ export const videoGameQuotes = [
     "game": "Marvel vs Capcom",
     "platform": "Sega Dreamcast, Arcade, Multi-Platform",
     "year": "1998",
-    "image": "https://i.pinimg.com/originals/21/f4/06/21f406ea19a88e3ee7ebf03e545c99e1.gif",
+    "image": "https://rq87.flyingomelette.com/RQ/Marvel/MvC/ons16.png",
     "voice": "mvc-know-my-name"
   },
   {
@@ -262,14 +142,6 @@ export const videoGameQuotes = [
     "year": "2011",
     "image": "https://static.wikia.nocookie.net/marveldatabase/images/0/08/Jennifer_Walters_%28Earth-30847%29_004.png/revision/latest?cb=20111020070002",
     "voice": "mvc3-she-hulk"
-  },
-  {
-    "quote": "Health bar in your face! Feel the love of the Hyper Combo! And it's a HOOOOOOOMMME RUUUUNNNN!!!",
-    "game": "Marvel vs Capcom 3",
-    "platform": "PS3, Xbox 360",
-    "year": "2011",
-    "image": "https://i.ytimg.com/vi/LczgFwi6sBs/sddefault.jpg",
-    "voice": "mvc3-deadpool"
   },
   {
     "quote": "You are the Ass Kick-EE. I am the Ass Kick-ER.",
@@ -324,7 +196,7 @@ export const videoGameQuotes = [
     "game": "Mega Man X4",
     "platform": "PS1",
     "year": "1997",
-    "image": "https://i.ytimg.com/vi/T-HTTdAdFlo/sddefault.jpg",
+    "image": "https://static.wikia.nocookie.net/megamanfanon/images/c/cc/WhatAmIFightingFor.jpg/revision/latest?cb=20100215203637",
     "voice": "megaman-x4-what-am"
   },
   {
@@ -332,7 +204,7 @@ export const videoGameQuotes = [
     "game": "Metal Gear",
     "platform": "MSX2",
     "year": "1987",
-    "image": "https://i0.wp.com/csanyk.com/rants/wp-content/uploads/2017/04/Metal-Gear-I-FEEL-ASLEEP1.gif?fit=680%2C452&ssl=1",
+    "image": "https://www.reddit.com/r/retrogaming/comments/14fzbgu/metal_gear_1988_i_feel_asleep/",
     "voice": null
   },
   {
@@ -372,7 +244,7 @@ export const videoGameQuotes = [
     "game": "NBA Jam",
     "platform": "Arcade, Multi-Platform",
     "year": "1993",
-    "image": "https://retroarcadia.blog/wp-content/uploads/2024/09/nba-jam-tournament-edition-usa-europe-240918-121423-1.png?w=816",
+    "image": "",
     "voice": "nba-jam"
   },
   {
@@ -380,7 +252,7 @@ export const videoGameQuotes = [
     "game": "Pokemon Gold and Silver / Pokemon HeartGold and SoulSilver",
     "platform": "GBC, DS",
     "year": "2000/2009",
-    "image": "https://pbs.twimg.com/media/EgshVsSU0AAkvOG.jpg",
+    "image": "https://share.google/JghJ1z8IG1r3P7ps5",
     "voice": null
   },
   {
@@ -404,15 +276,15 @@ export const videoGameQuotes = [
     "game": "Pokemon Red and Blue / Pokemon FireRed and LeafGreen",
     "platform": "GB, GBA",
     "year": "1996/2004",
-    "image": "https://media.tenor.com/rGoobgfAV1sAAAAe/pokemon-gramps.png",
+    "image": "https://share.google/HTxR8LZUtELfTO0ut",
     "voice": null
   },
   {
-    "quote": "Hiya! I'm a _ ... no I'm not!",
+    "quote": "Hiya I'm a _ , no I'm not!",
     "game": "Pokemon Red and Blue / Pokemon FireRed and LeafGreen",
     "platform": "GB, GBA",
     "year": "1996/2004",
-    "image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2018/01/Bill-In-Pokemon-Yellow-Bulbapedia.jpg?q=50&fit=crop&w=825&dpr=1.5",
+    "image": "https://share.google/llPV7aKH7Ejm0EYbo",
     "voice": null
   },
   {
@@ -448,7 +320,7 @@ export const videoGameQuotes = [
     "voice": null
   },
   {
-    "quote": "Hey! Wait! Don't go out!",
+    "quote": "Hey wait! Don't go out!",
     "game": "Pokemon Red and Blue / Pokemon FireRed and LeafGreen",
     "platform": "GB, GBA",
     "year": "1996/2004",
@@ -472,7 +344,7 @@ export const videoGameQuotes = [
     "voice": "pokemon-stadium-congratulations"
   },
   {
-    "quote": "Do you understand what I'm saying? At all? Does any of this make any sense? Just tell me, just say 'Yes'.",
+    "quote": "Do you understand what I'm saying? At all? Does any of this make any sense? Just tell me, 'Yes'.",
     "game": "Portal 2",
     "platform": "Multi-Platform",
     "year": "2011",
@@ -492,7 +364,7 @@ export const videoGameQuotes = [
     "game": "Red Dead Redemption 2",
     "platform": "Multi-Platform",
     "year": "2018",
-    "image": "",
+    "image": "https://static.wikia.nocookie.net/reddeadredemption/images/f/fe/Milton-rdr2.jpeg/revision/latest/scale-to-width-down/250?cb=20191122160558",
     "voice": null
   },
   {
@@ -524,7 +396,7 @@ export const videoGameQuotes = [
     "game": "Sonic Adventure 2",
     "platform": "Multi-Platform",
     "year": "2001",
-    "image": "https://i.ytimg.com/vi/Lla43Vqfs9Y/hqdefault.jpg",
+    "image": "https://static.wikia.nocookie.net/sonic/images/3/35/SA2_Tails_boss_1.png/revision/latest?cb=20170707135433",
     "voice": null
   },
   {
@@ -532,7 +404,7 @@ export const videoGameQuotes = [
     "game": "Sonic Adventure 2",
     "platform": "Multi-Platform",
     "year": "2001",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBvngDl919COZAdeTJMbQ9thjTAW5LrNqMznF6oTnzWQ&s=10",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwcGrP52GqW1RpjxD9JdFroyYtUhDHgtAP_ZRI1pv4AXw16DcPKjG6ERJu&s=10",
     "voice": "sa2-i-found-you"
   },
   {
@@ -644,11 +516,11 @@ export const videoGameQuotes = [
     "game": "The Legend of Zelda",
     "platform": "NES",
     "year": "1986",
-    "image": "https://zeldauniverse.net/wp-content/uploads/2020/07/Secret-to-Everybody.png",
+    "image": "https://static.wikia.nocookie.net/zelda/images/9/99/Secret_Moblin.png/revision/latest?cb=20090930144719",
     "voice": null
   },
   {
-    "quote": "It's dangerous to go alone! Take this.",
+    "quote": "It's dangerous to go alone, take this!",
     "game": "The Legend of Zelda",
     "platform": "NES",
     "year": "1986",
@@ -684,7 +556,7 @@ export const videoGameQuotes = [
     "game": "Undertale",
     "platform": "Multi-Platform",
     "year": "2015",
-    "image": "https://static.wikia.nocookie.net/villains/images/2/24/Mettaton_EX.png/revision/latest?cb=20180704004439",
+    "image": "",
     "voice": null
   },
   {
@@ -744,11 +616,11 @@ export const videoGameQuotes = [
     "voice": null
   },
   {
-    "quote": "All your base are belong to us.",
+    "quote": "All your base has belong to us.",
     "game": "Zero Wing",
     "platform": "Arcade, Multi-Platform",
     "year": "1989",
-    "image": "https://upload.wikimedia.org/wikipedia/en/0/03/Aybabtu.png",
+    "image": "https://share.google/AhKOPNNSyg7oqRRK9",
     "voice": "zero-wing-all-your-base"
   },
   {
@@ -758,6 +630,134 @@ export const videoGameQuotes = [
     "year": "1989",
     "image": "https://legendsoflocalization.com/wp-content/uploads/2018/02/zero-wing-english-translation-004.png",
     "voice": "zero-wing-somebody"
+  },
+  {
+    "quote": "Death is just another step on your journey.",
+    "game": "Absolum",
+    "platform": "Multi-Platform",
+    "year": "2025",
+    "image": "https://cdn.mos.cms.futurecdn.net/aNta9xH6NkuGkRhdVqNMCe.jpg",
+    "voice": "absolum-death-is"
+  },
+  {
+    "quote": "What a horrible night to have a curse.",
+    "game": "Castlevania II: Simon's Quest",
+    "platform": "NES",
+    "year": "1987",
+    "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2020/02/Castlevania-II-Curse-Warning-Screen.jpg?w=1200&h=675&fit=crop",
+    "voice": null
+  },
+  {
+    "quote": "Hey little guy, it's O.K. if you have to cry!",
+    "game": "Cuphead",
+    "platform": "Multi-Platform",
+    "year": "2017",
+    "image": "https://i.ytimg.com/vi/yhq3hdepBsQ/hqdefault.jpg",
+    "voice": null
+  },
+  {
+    "quote": "I own the air -- I fly where eagles dare!",
+    "game": "Cuphead",
+    "platform": "Multi-Platform",
+    "year": "2017",
+    "image": "https://i.ytimg.com/vi/O-pz2IMYdNs/hqdefault.jpg",
+    "voice": null
+  },
+  {
+    "quote": "Looks like this is gonna be one hell of a party!",
+    "game": "Devil May Cry 3: Dante's Awakening",
+    "platform": "PS2",
+    "year": "2005",
+    "image": "https://i.ytimg.com/vi/7esod1BFJuI/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AG-B4AC0AWKAgwIABABGGUgYyhEMA8=&rs=AOn4CLAo6b59-tB5iQj2apJ1T8W981QMCw",
+    "voice": "devil-may-cry-3"
+  },
+  {
+    "quote": "HOW HIGH CAN YOU GET?",
+    "game": "Donkey Kong",
+    "platform": "Arcade, NES",
+    "year": "1981",
+    "image": "https://pbs.twimg.com/media/Gt0DcRcWsAANfDp.jpg",
+    "voice": null
+  },
+  {
+    "quote": "I've kidnapped that lumbering fool _ and you will never see him again! Har-har-har-har!",
+    "game": "Donkey Kong Country 2",
+    "platform": "SNES",
+    "year": "1995",
+    "image": "https://share.google/p0JaMpdwohD3xv1bB",
+    "voice": null
+  },
+  {
+    "quote": "You spoony bard!",
+    "game": "Final Fantasy IV",
+    "platform": "SNES",
+    "year": "1991",
+    "image": "https://legendsoflocalization.com/wp-content/uploads/2018/07/spoony-bard-translation.png",
+    "voice": null
+  },
+  {
+    "quote": "Congraturation! This story is happy end. Thank you.",
+    "game": "Ghosts 'n Goblins",
+    "platform": "Arcade, NES",
+    "year": "1985",
+    "image": "https://i.ytimg.com/vi/1DKktpamPCU/sddefault.jpg",
+    "voice": null
+  },
+  {
+    "quote": "Hope is what makes us strong. It is why we are here. It is what we fight with when all else is lost.",
+    "game": "God of War III",
+    "platform": "PS3",
+    "year": "2010",
+    "image": "https://i.ytimg.com/vi/FTqjdyZsitk/maxresdefault.jpg",
+    "voice": "god-of-war-3"
+  },
+  {
+    "quote": "What kind of a *** animal you take me for? No I didn't kill him. But I did kidnap his wife!!",
+    "game": "GTA 5",
+    "platform": "Multi-Platform",
+    "year": "2013",
+    "image": "https://i.ytimg.com/vi/ZjKZcE-ktL0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDpIukR_BYNk73lB-wXuCGflXrnLw",
+    "voice": "gta5-what-kind-of"
+  },
+  {
+    "quote": "OH I love you! Oh let me take you away from all this...!",
+    "game": "GTA 5",
+    "platform": "Multi-Platform",
+    "year": "2013",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB87GDKmfRH4dpzFIHe3vq9v-y0MrkF-dfNIyDYh05Iw&s",
+    "voice": "gta5-oh-i-love-you"
+  },
+  {
+    "quote": "Ah shit, here we go again.",
+    "game": "GTA: San Andreas",
+    "platform": "PS2, Xbox",
+    "year": "2004",
+    "image": "https://en.meming.world/images/en/6/62/Ah_Shit%2C_Here_We_Go_Again.jpg",
+    "voice": "gta-sa-ah-shit"
+  },
+  {
+    "quote": "Sir… Finishing this fight.",
+    "game": "Halo 2",
+    "platform": "Xbox",
+    "year": "2004",
+    "image": "",
+    "voice": "halo-2-sir-finishing"
+  },
+  {
+    "quote": "Me. Inside your head. Now.",
+    "game": "Halo 2",
+    "platform": "Xbox",
+    "year": "2004",
+    "image": "https://i.ytimg.com/vi/A5UH7qYZjRg/oar2.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLAgrYTm48A5o3EHONtBZ6NVMsuUGQ&usqp=CCk",
+    "voice": "halo-2-me"
+  },
+  {
+    "quote": "Health bar in your face! Feel the love of the Hyper Combo! And it's a HOOOOOOOMMME RUUUUNNNN!!!",
+    "game": "Marvel vs Capcom 3",
+    "platform": "PS3, Xbox 360",
+    "year": "2011",
+    "image": "https://i.ytimg.com/vi/LczgFwi6sBs/sddefault.jpg",
+    "voice": "mvc3-deadpool"
   }
 ]
 export default videoGameQuotes;
