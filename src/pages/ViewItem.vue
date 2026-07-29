@@ -11,13 +11,15 @@
                 </button>
             </div>
 
-            <div class="text-3xl/6 py-12">
+            <div class="text-3xl/11 py-12">
                 "{{ item.quote }}"
             </div>
 
-            <div v-if="showAnswer" class="text-3xl/6 pt-8 pb-4">
+            <div v-if="showAnswer" class="text-3xl/11 pt-8 pb-4">
                 <img v-if="item.image" :src="item.image" class="view-item image py-4 mx-auto w-md" />
-                <span class="font-light italic">{{ item.game }}</span>
+                <span class="font-light italic">{{ item.game }}&nbsp;</span>
+                <span class="font-light italic">({{ item.year }}) </span><br>
+                <span class="text-lg font-light italic">{{ item.platform }}</span>
             </div>
 
             <div class="py-12" v-if="!showAnswer">
@@ -34,15 +36,13 @@
 <script setup>
 import { ref, onMounted } from 'vue'
 import { useRouter } from 'vue-router'
-import { triviaList as listData } from './../data/triviaList.js'
+import videoGameQuotes from './../data/videoGameQuotes.js'
 import { Headphones } from '@lucide/vue';
 import defaultVoiceSrc from './../audio/jill-sandwitch.ogg';
 
 const router = useRouter();
 const item = ref({});
 const showAnswer = ref(false);
-const useImageWidth = ref(false);
-const useImageHeight = ref(false);
 
 const props = defineProps({
   id: {
@@ -52,7 +52,7 @@ const props = defineProps({
 });
 
 const fetchItem = async (id) => {
-    const triviaItem = listData.list[id - 1];
+    const triviaItem = videoGameQuotes[id - 1];
     item.value = triviaItem;
 };
 

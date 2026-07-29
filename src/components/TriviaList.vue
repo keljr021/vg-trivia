@@ -4,21 +4,22 @@
         <trivia-list-item 
           :number="(i)" 
           :isSelected="checkIfAlreadySelected(i)" 
-          :hasAudio="checkIfItemHasAudio(i)" />
+          :hasAudio="checkIfItemHasAudio(i)" 
+          :hasImage="checkIfItemHasImage(i)"/>
     </div>
   </div>
 </template>
 
 <script setup>
 import TriviaListItem from './TriviaListItem.vue'
-import { triviaList as listData } from '../data/triviaList.js'
+import videoGameQuotes from '../data/videoGameQuotes.js'
 import { useTallyStore } from './../store/tally.js'
 import { ref, onMounted } from 'vue'
 
 const tallyStore = useTallyStore();
 const selectedValues = ref([])
 
-const total = listData.list.length;
+const total = videoGameQuotes.length;
 
 
 const checkIfAlreadySelected = (id) => {
@@ -34,8 +35,13 @@ const checkIfAlreadySelected = (id) => {
 } 
 
 const checkIfItemHasAudio = (id) => {
-  let targetItem = listData.list[id-1];
+  let targetItem = videoGameQuotes[id-1];
   return !!(targetItem.voice);
+}
+
+const checkIfItemHasImage = (id) => {
+  let targetItem = videoGameQuotes[id-1];
+  return !!(targetItem.image);
 }
 
 onMounted(() => {
