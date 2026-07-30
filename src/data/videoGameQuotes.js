@@ -4,7 +4,7 @@ export const videoGameQuotes = [
     "game": "Absolum",
     "platform": "Multi-Platform",
     "year": "2025",
-    "image": "https://cdn.mos.cms.futurecdn.net/aNta9xH6NkuGkRhdVqNMCe.jpg",
+    "image": "absolum.jpg",
     "voice": "absolum-one-of-the-best"
   },
   {
@@ -12,7 +12,7 @@ export const videoGameQuotes = [
     "game": "Castlevania: Symphony of the Night",
     "platform": "PS1",
     "year": "1997",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXmwTwdItIIWBubEkJBx4MgqpKutWia-3Yy9mBJGhN_oK_EADVfeH4A&s=10",
+    "image": "castlevania-what-is-a-man.jpg",
     "voice": "castlevania-what-is-a-man"
   },
   {
@@ -636,7 +636,7 @@ export const videoGameQuotes = [
     "game": "Absolum",
     "platform": "Multi-Platform",
     "year": "2025",
-    "image": "https://cdn.mos.cms.futurecdn.net/aNta9xH6NkuGkRhdVqNMCe.jpg",
+    "image": "absolum.jpg",
     "voice": "absolum-death-is"
   },
   {
