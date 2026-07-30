@@ -20,7 +20,7 @@ export const videoGameQuotes = [
     "game": "Conker's Bad Fur Day",
     "platform": "N64",
     "year": "2001",
-    "image": "https://popcultureuncovered.com/wp-content/uploads/2018/10/platform-game.jpg?w=440&h=330",
+    "image": "conkers-bad-fur-day.webp",
     "voice": "conkers-bad-fur-day"
   },
   {
@@ -28,7 +28,7 @@ export const videoGameQuotes = [
     "game": "Cuphead",
     "platform": "Multi-Platform",
     "year": "2017",
-    "image": "https://i.ytimg.com/vi/hY8erjHkIKA/maxresdefault.jpg",
+    "image": "cuphead-one-two-three.jpg",
     "voice": null
   },
   {
@@ -36,7 +36,7 @@ export const videoGameQuotes = [
     "game": "GTA: San Andreas",
     "platform": "PS2, Xbox",
     "year": "2004",
-    "image": "https://i.ytimg.com/vi/cF3GK_sfPVM/maxresdefault.jpg",
+    "image": "gta-sa-all-we.jpg",
     "voice": "gta-sa-all-we-had"
   },
   {
@@ -44,7 +44,7 @@ export const videoGameQuotes = [
     "game": "Half-Life 2",
     "platform": "PC, Xbox",
     "year": "2004",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbaqCyjjMlrSS6H5C66jgEtklBLapYs-4sciHDwG5tmQ&s",
+    "image": "half-life-2.jpg",
     "voice": "half-life-2"
   },
   {
@@ -52,7 +52,7 @@ export const videoGameQuotes = [
     "game": "F-Zero X",
     "platform": "N64",
     "year": "1998",
-    "image": "",
+    "image": "f-zero-you-got-boost.jpg",
     "voice": "f-zero-you-got-boost"
   },
   {
@@ -60,7 +60,7 @@ export const videoGameQuotes = [
     "game": "Hitman",
     "platform": "Multi-Platform",
     "year": "2016",
-    "image": "",
+    "image": "hitman.webp",
     "voice": "hitman-i-will-leave"
   },
   {
@@ -68,7 +68,7 @@ export const videoGameQuotes = [
     "game": "Heavy Rain",
     "platform": "PS3",
     "year": "2010",
-    "image": "https://i1.sndcdn.com/artworks-000572867645-perwf3-t500x500.jpg",
+    "image": "heavy-rain.jpg",
     "voice": null
   },
   {
@@ -76,7 +76,7 @@ export const videoGameQuotes = [
     "game": "Altered Beast",
     "platform": "Sega Genesis, Arcade",
     "year": "1988",
-    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/altered-beast/d/dc/Level_1.jpg",
+    "image": "altered-beast.webp",
     "voice": "altered-beast-rise"
   },
   {
@@ -84,7 +84,7 @@ export const videoGameQuotes = [
     "game": "Castlevania: Symphony of the Night",
     "platform": "PS1",
     "year": "1997",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBw0ClhNzu25vCf_eMlTpyTYiqR96SKTR8GKC1cJmyispo0twqbEfYQwwR&s=10",
+    "image": "castlevania-die-monster.jpg",
     "voice": "castlevania-die-monster"
   },
   {
@@ -92,7 +92,7 @@ export const videoGameQuotes = [
     "game": "Kingdom Hearts",
     "platform": "Multi-Platform",
     "year": "2002",
-    "image": "https://ultimakey.wordpress.com/wp-content/uploads/2013/02/friendspower1.jpg",
+    "image": "kingdom-hearts-i-dont-need.jpg",
     "voice": "kingdom-hearts-i-dont-need"
   },
   {
@@ -100,7 +100,7 @@ export const videoGameQuotes = [
     "game": "Kingdom Hearts",
     "platform": "Multi-Platform",
     "year": "2002",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFH2Umx46B14u11QUaGVYbVNr9xRKifxNXmu3GAFlaIP6-jevx5gKZwnI&s=10",
+    "image": "kingdom-hearts-ive-been.jpg",
     "voice": "kingdom-hearts-ive-been-having"
   },
   {
@@ -108,7 +108,7 @@ export const videoGameQuotes = [
     "game": "Mario and Luigi: Superstar Saga",
     "platform": "GBA, DS",
     "year": "2003",
-    "image": "https://i.ytimg.com/vi/lHiZRRse3Dg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDj_9ct4FqAk1bRtDNTg95ZXclRTQ",
+    "image": "mario-i-have-fury.jpg",
     "voice": null
   },
   {
@@ -116,7 +116,7 @@ export const videoGameQuotes = [
     "game": "Marvel vs Capcom",
     "platform": "Sega Dreamcast, Arcade, Multi-Platform",
     "year": "1998",
-    "image": "https://rq87.flyingomelette.com/RQ/Marvel/MvC/ons16.png",
+    "image": "mvc-know-my-name.png",
     "voice": "mvc-know-my-name"
   },
   {
@@ -124,7 +124,7 @@ export const videoGameQuotes = [
     "game": "Marvel vs Capcom",
     "platform": "Sega Dreamcast, Arcade, Multi-Platform",
     "year": "1998",
-    "image": "https://i.ytimg.com/vi/j4op72IfyNc/hqdefault.jpg",
+    "image": "mvc-now-behold.jpg",
     "voice": null
   },
   {
@@ -132,7 +132,7 @@ export const videoGameQuotes = [
     "game": "Marvel vs Capcom 2",
     "platform": "Sega Dreamcast, Arcade, Multi-Platform",
     "year": "2000",
-    "image": "https://www.fightersgeneration.com/nf8/game2/mvc2-character-select-screen-full.png",
+    "image": "mvc2-im-gonna.png",
     "voice": "mvc2"
   },
   {
@@ -140,7 +140,7 @@ export const videoGameQuotes = [
     "game": "Marvel vs Capcom 3",
     "platform": "PS3, Xbox 360",
     "year": "2011",
-    "image": "https://static.wikia.nocookie.net/marveldatabase/images/0/08/Jennifer_Walters_%28Earth-30847%29_004.png/revision/latest?cb=20111020070002",
+    "image": "mvc3-honey.jpg",
     "voice": "mvc3-she-hulk"
   },
   {
@@ -148,7 +148,7 @@ export const videoGameQuotes = [
     "game": "Marvel vs Capcom 3",
     "platform": "PS3, Xbox 360",
     "year": "2011",
-    "image": "https://static.tvtropes.org/pmwiki/pub/images/249px-Taskmaster_MvsC3-FTW_5799.PNG",
+    "image": "mvc3-you-are.gif",
     "voice": "mvc3-taskmaster"
   },
   {
@@ -156,7 +156,7 @@ export const videoGameQuotes = [
     "game": "Marvel vs Capcom 3",
     "platform": "PS3, Xbox 360",
     "year": "2011",
-    "image": "https://i.ytimg.com/vi/LczgFwi6sBs/sddefault.jpg",
+    "image": "mvc3-i-dont-even.gif",
     "voice": "mvc3-zero"
   },
   {
@@ -164,7 +164,7 @@ export const videoGameQuotes = [
     "game": "Marvel vs Street Fighter",
     "platform": "Arcade, Multi-Platform",
     "year": "1997",
-    "image": "https://i.ytimg.com/vi/5N5TIEoftbQ/hqdefault.jpg",
+    "image": "mvsf-my-feet.jpg",
     "voice": null
   },
   {
@@ -172,7 +172,7 @@ export const videoGameQuotes = [
     "game": "Mega Man 7",
     "platform": "SNES",
     "year": "1995",
-    "image": "https://www.reddit.com/r/Megaman/comments/170ch9o/what_exactly_is_happening_in_this_scene_ive_heard/",
+    "image": "megaman-7.webp",
     "voice": null
   },
   {
@@ -180,7 +180,7 @@ export const videoGameQuotes = [
     "game": "Mega Man 9",
     "platform": "Multi-Platform",
     "year": "2008",
-    "image": "https://i.ytimg.com/vi/zIoPR9K-Gno/hqdefault.jpg",
+    "image": "megaman-9-this-is.jpg",
     "voice": null
   },
   {
@@ -188,7 +188,7 @@ export const videoGameQuotes = [
     "game": "Mega Man X",
     "platform": "SNES",
     "year": "1993",
-    "image": "https://gamefaqs.gamespot.com/snes/588479-mega-man-x/faqs/17226",
+    "image": "megman-x-but-the-time.png",
     "voice": null
   },
   {
@@ -196,7 +196,7 @@ export const videoGameQuotes = [
     "game": "Mega Man X4",
     "platform": "PS1",
     "year": "1997",
-    "image": "https://static.wikia.nocookie.net/megamanfanon/images/c/cc/WhatAmIFightingFor.jpg/revision/latest?cb=20100215203637",
+    "image": "megaman-x4-what-am.gif",
     "voice": "megaman-x4-what-am"
   },
   {
@@ -204,7 +204,7 @@ export const videoGameQuotes = [
     "game": "Metal Gear",
     "platform": "MSX2",
     "year": "1987",
-    "image": "https://www.reddit.com/r/retrogaming/comments/14fzbgu/metal_gear_1988_i_feel_asleep/",
+    "image": "metal-gear.webp",
     "voice": null
   },
   {
@@ -212,7 +212,7 @@ export const videoGameQuotes = [
     "game": "Minecraft",
     "platform": "Multi-Platform",
     "year": "2011",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMheSG_z9VR8Z1OsnegtbcIA_V4390ADIc4xxvFUxIwx87rR9d-jwy6ac&s=10",
+    "image": "minecraft.jpg",
     "voice": null
   },
   {
@@ -220,7 +220,7 @@ export const videoGameQuotes = [
     "game": "Mortal Kombat 2",
     "platform": "Arcade, Multi-Platform",
     "year": "1993",
-    "image": "https://i.ytimg.com/vi/fKn73c5SxTI/hqdefault.jpg",
+    "image": "mortal-kombat-2-feel-the.jpg",
     "voice": "mortal-kombat-2-feel-the"
   },
   {
@@ -236,7 +236,7 @@ export const videoGameQuotes = [
     "game": "Mortal Kombat 3",
     "platform": "Arcade, Multi-Platform",
     "year": "1995",
-    "image": "https://i.ytimg.com/vi/JiDts5PCK8g/hqdefault.jpg",
+    "image": "mk3-crispy.jpg",
     "voice": "mortal-kombat-3-crispy"
   },
   {
@@ -244,7 +244,7 @@ export const videoGameQuotes = [
     "game": "NBA Jam",
     "platform": "Arcade, Multi-Platform",
     "year": "1993",
-    "image": "",
+    "image": "nba-jam.gif",
     "voice": "nba-jam"
   },
   {
@@ -252,7 +252,7 @@ export const videoGameQuotes = [
     "game": "Pokemon Gold and Silver / Pokemon HeartGold and SoulSilver",
     "platform": "GBC, DS",
     "year": "2000/2009",
-    "image": "https://share.google/JghJ1z8IG1r3P7ps5",
+    "image": "pokemon-strong-weak.jpg",
     "voice": null
   },
   {
@@ -260,7 +260,7 @@ export const videoGameQuotes = [
     "game": "Pokemon Gold and Silver / Pokemon HeartGold and SoulSilver",
     "platform": "GBC, DS",
     "year": "2000/2009",
-    "image": "https://www.digitaltrends.com/tachyon/2024/10/VS-YouTube-PokmonGoldPart33FirstStepsintoKantoNoCommentary-031.jpg?resize=720%2C648",
+    "image": "pokemon-first-steps.webp",
     "voice": null
   },
   {
@@ -268,7 +268,7 @@ export const videoGameQuotes = [
     "game": "Pokemon Legends: Z-A",
     "platform": "Switch, Switch 2",
     "year": "2026",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVdetAU2FxlBt9LXjvJTDrlw0Mj64PdlOwLd20A3r4S675zO76iuAGBig&s=10",
+    "image": "pokemon-za.png",
     "voice": null
   },
   {
@@ -276,15 +276,15 @@ export const videoGameQuotes = [
     "game": "Pokemon Red and Blue / Pokemon FireRed and LeafGreen",
     "platform": "GB, GBA",
     "year": "1996/2004",
-    "image": "https://share.google/HTxR8LZUtELfTO0ut",
+    "image": "pokemon-smell-ya.png",
     "voice": null
   },
   {
-    "quote": "Hiya I'm a _ , no I'm not!",
+    "quote": "Hiya I'm a _ ... no I'm not!",
     "game": "Pokemon Red and Blue / Pokemon FireRed and LeafGreen",
     "platform": "GB, GBA",
     "year": "1996/2004",
-    "image": "https://share.google/llPV7aKH7Ejm0EYbo",
+    "image": "pokemon-hiya-im-a.png",
     "voice": null
   },
   {
@@ -292,7 +292,7 @@ export const videoGameQuotes = [
     "game": "Pokemon Red and Blue / Pokemon FireRed and LeafGreen",
     "platform": "GB, GBA",
     "year": "1996/2004",
-    "image": "https://pbs.twimg.com/media/ELkP89wWoAAK4h-.jpg",
+    "image": "pokemon-nope.jpg",
     "voice": null
   },
   {
@@ -300,7 +300,7 @@ export const videoGameQuotes = [
     "game": "Pokemon Red and Blue / Pokemon FireRed and LeafGreen",
     "platform": "GB, GBA",
     "year": "1996/2004",
-    "image": "https://i.ytimg.com/vi/OpOzdM5sq90/sddefault.jpg",
+    "image": "pokemon-rocket.jpg",
     "voice": null
   },
   {
@@ -308,7 +308,7 @@ export const videoGameQuotes = [
     "game": "Pokemon Red and Blue / Pokemon FireRed and LeafGreen",
     "platform": "GB, GBA",
     "year": "1996/2004",
-    "image": "https://legendsoflocalization.com/wp-content/uploads/2013/06/pokemon-comfy-shorts-english-2.png",
+    "image": "pokemon-comfy-shorts.png",
     "voice": null
   },
   {
@@ -316,7 +316,7 @@ export const videoGameQuotes = [
     "game": "Pokemon Red and Blue / Pokemon FireRed and LeafGreen",
     "platform": "GB, GBA",
     "year": "1996/2004",
-    "image": "https://i.ytimg.com/vi/C3Byx7wb62I/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHWA4ACqAOKAgwIABABGGUgZShlMA8=&rs=AOn4CLCwLQhFXSEB5_7KvSy1-F_4uO5OOA",
+    "image": "pokemon-hey-youre-not.jpg",
     "voice": null
   },
   {

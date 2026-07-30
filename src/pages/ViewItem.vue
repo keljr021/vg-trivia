@@ -25,7 +25,7 @@
 
             <div class="flex-1 w-1/2 float-left text-center my-auto">
                 <div v-if="showAnswer" class="text-3xl/11 pt-8 pb-4">
-                    <img v-if="item.image" :src="`./../screenshots/${item.image}`" class="view-item-image image py-4 mx-auto w-sm" />
+                    <img v-if="item.image" :src="getImageSrc(item.image)" class="view-item-image image py-4 mx-auto w-sm" />
                     <span class="font-light italic">{{ item.game }}&nbsp;</span>
                     <span class="font-light italic">({{ item.year }}) </span><br>
                     <span class="text-lg font-light italic">{{ item.platform }}</span>
@@ -42,7 +42,7 @@
 </template>
 
 <script setup>
-import { ref, onMounted } from 'vue'
+import { ref, computed, onMounted } from 'vue'
 import { useRouter } from 'vue-router'
 import videoGameQuotes from './../data/videoGameQuotes.js'
 import { Headphones } from '@lucide/vue';
@@ -51,6 +51,11 @@ import defaultVoiceSrc from './../audio/jill-sandwitch.ogg';
 const router = useRouter();
 const item = ref({});
 const showAnswer = ref(false);
+
+const localImageMap = import.meta.glob('../screenshots/*.{jpg,jpeg,JPG,JPEG,png,PNG,webp,WEBP,gif}', {
+    eager: true,
+    import: 'default'
+});
 
 const props = defineProps({
   id: {
@@ -62,6 +67,19 @@ const props = defineProps({
 const fetchItem = async (id) => {
     const triviaItem = videoGameQuotes[id - 1];
     item.value = triviaItem;
+};
+
+const getImageSrc = (src) => {
+    if (!src) return '';
+
+    const trimmedSrc = src.trim();
+
+    if (/\.(jpe?g|png|webp|gif)$/i.test(trimmedSrc)) {
+        const localSrc = `../screenshots/${trimmedSrc}`;
+        return localImageMap[localSrc] || trimmedSrc;
+    }
+
+    return trimmedSrc;
 };
 
 const playVoice = async () => {
