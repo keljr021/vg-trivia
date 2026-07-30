@@ -1,6 +1,47 @@
 <template>
-    <div class="view-item w-full text-center py-8 px-16">
-        <div class="border-2 border-slate-300 py-8 px-16">
+    <div class="view-item relative my-8 mx-16">
+
+        <div class="py-2">
+            <button class="view-item-button" @click="backToList">Back to List</button>
+        </div>
+        
+        <div class="flex items-stretch content-center w-full py-8 px-16 border-2 border-slate-300 rounded-lg">
+
+            <div class="flex-1 w-1/2 float-left">
+                 <div class="text-md">
+                    #{{ id }}
+                </div>
+
+                <div v-if="item.voice">
+                    <button class="view-item-button" @click="playVoice">
+                        <Headphones />
+                    </button>
+                </div>
+
+                <div class="text-4xl/15 py-12">
+                    "{{ item.quote }}"
+                </div>
+            </div>
+
+            <div class="flex-1 w-1/2 float-left text-center my-auto">
+                <div v-if="showAnswer" class="text-3xl/11 pt-8 pb-4">
+                    <img v-if="item.image" :src="item.image" class="view-item-image image py-4 mx-auto w-sm" />
+                    <span class="font-light italic">{{ item.game }}&nbsp;</span>
+                    <span class="font-light italic">({{ item.year }}) </span><br>
+                    <span class="text-lg font-light italic">{{ item.platform }}</span>
+                </div>
+
+                <div class="py-12" v-if="!showAnswer">
+                    <button class="view-item-button" @click="clickAnswerButton">Answer</button>
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+        <!-- <div class="border-2 border-slate-300 py-8 px-16">
             <div class="text-md">
                 #{{ id }}
             </div>
@@ -29,7 +70,7 @@
             <div class="py-12">
                 <button class="view-item-button" @click="backToList">Back to List</button>
             </div>
-        </div>
+        </div> -->
     </div>
 </template>
 

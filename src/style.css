@@ -1,11 +1,28 @@
 @import "tailwindcss";
 
+body {
+    background: #5f9982;
+    background: radial-gradient(circle,rgba(95, 153, 130, 1) 0%, rgba(75, 62, 102, 1) 90%);
+    color: #eee;
+    min-height: calc(100vh - 30px);
+}
+
+.v-enter-active,
+.v-leave-active {
+  transition: opacity 0.5s ease;
+}
+
+.v-enter-from,
+.v-leave-to {
+  opacity: 0;
+}
+
 .trivia-list {
     margin: 0 auto;
 }
 
 .trivia-list-item {
-    border: 1px solid #999;
+    border: 1px solid #ccc;
     padding: 10px;
     margin: 10px;
     cursor: pointer;
@@ -13,7 +30,7 @@
 }
 
 .trivia-list-item:hover {
-    background-color: #bbb;
+    background-color: rgba(0, 0, 0, 0.1);
 }
 
 .trivia-list-item-key {
@@ -22,7 +39,7 @@
 }
 
 .trivia-list-item.selected {
-    opacity: 0.35;
+    opacity: 0.3;
 }
 
 .view-item {
@@ -35,4 +52,8 @@
     padding: 10px 20px;
     margin: 10px;
     cursor: pointer;
+}
+
+.view-item-image {
+    
 }
