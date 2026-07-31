@@ -324,7 +324,7 @@ export const videoGameQuotes = [
     "game": "Pokemon Red and Blue / Pokemon FireRed and LeafGreen",
     "platform": "GB, GBA",
     "year": "1996/2004",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlC-ZpEbvqKtPtIMeFtqsDLmJq-uh4q1InY5fp8Sb790nujecYv4WDO5JV&s=10",
+    "image": "pokemon-hey-wait.jpg",
     "voice": null
   },
   {
@@ -332,7 +332,7 @@ export const videoGameQuotes = [
     "game": "Pokemon Stadium",
     "platform": "N64",
     "year": "1999",
-    "image": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_7/SI_N64_PokemonStadium_image1600w.jpg",
+    "image": "pokemon-stadium.jpg",
     "voice": "pokemon-stadium-and-there"
   },
   {
@@ -340,7 +340,7 @@ export const videoGameQuotes = [
     "game": "Pokemon Stadium",
     "platform": "N64",
     "year": "1999",
-    "image": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_7/SI_N64_PokemonStadium_image1600w.jpg",
+    "image": "pokemon-stadium.jpg",
     "voice": "pokemon-stadium-congratulations"
   },
   {
@@ -348,7 +348,7 @@ export const videoGameQuotes = [
     "game": "Portal 2",
     "platform": "Multi-Platform",
     "year": "2011",
-    "image": "https://images.steamusercontent.com/ugc/558758870148189651/FDB938E25D7116402F5CBA27BA3374276C14DE1E/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+    "image": "portal-2.jpg",
     "voice": "portal-2"
   },
   {
@@ -356,7 +356,7 @@ export const videoGameQuotes = [
     "game": "Red Dead Redemption 2",
     "platform": "Multi-Platform",
     "year": "2018",
-    "image": "https://i.ytimg.com/vi/LUQdfuly9vo/maxresdefault.jpg",
+    "image": "rdr2-you-sir.jpg",
     "voice": "rdr2-you-sir"
   },
   {
@@ -364,7 +364,7 @@ export const videoGameQuotes = [
     "game": "Red Dead Redemption 2",
     "platform": "Multi-Platform",
     "year": "2018",
-    "image": "https://static.wikia.nocookie.net/reddeadredemption/images/f/fe/Milton-rdr2.jpeg/revision/latest/scale-to-width-down/250?cb=20191122160558",
+    "image": "rdr2-i-showed-you.webp",
     "voice": null
   },
   {
@@ -372,7 +372,7 @@ export const videoGameQuotes = [
     "game": "Resident Evil",
     "platform": "PS1, Sega Saturn",
     "year": "1996",
-    "image": "https://i.ytimg.com/vi/63SBcSFq3BU/mqdefault.jpg",
+    "image": "resident-evil.jpg",
     "voice": "jill-sandwitch"
   },
   {
@@ -380,7 +380,7 @@ export const videoGameQuotes = [
     "game": "Shadow the Hedgehog",
     "platform": "Multi-Platform",
     "year": "2005",
-    "image": "https://i.ytimg.com/vi/np8SjpJYGeU/maxresdefault.jpg",
+    "image": "shadow-the-hedgehog.jpg",
     "voice": "shadow-the-hedgehog"
   },
   {
@@ -396,7 +396,7 @@ export const videoGameQuotes = [
     "game": "Sonic Adventure 2",
     "platform": "Multi-Platform",
     "year": "2001",
-    "image": "https://static.wikia.nocookie.net/sonic/images/3/35/SA2_Tails_boss_1.png/revision/latest?cb=20170707135433",
+    "image": "sa2-what-have-you.jpg",
     "voice": null
   },
   {
@@ -404,7 +404,7 @@ export const videoGameQuotes = [
     "game": "Sonic Adventure 2",
     "platform": "Multi-Platform",
     "year": "2001",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwcGrP52GqW1RpjxD9JdFroyYtUhDHgtAP_ZRI1pv4AXw16DcPKjG6ERJu&s=10",
+    "image": "sa2-i-found-you.jpeg",
     "voice": "sa2-i-found-you"
   },
   {
@@ -412,7 +412,7 @@ export const videoGameQuotes = [
     "game": "Sonic Heroes",
     "platform": "Multi-Platform",
     "year": "2003",
-    "image": "https://i.ytimg.com/vi/VgLFWdh7s00/hqdefault.jpg",
+    "image": "sonic-heroes.jpg",
     "voice": "sonic-heroes"
   },
   {
@@ -420,7 +420,7 @@ export const videoGameQuotes = [
     "game": "Spyro",
     "platform": "PS1",
     "year": "1998",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfxyX3nj_cXtmR2jeaLr_UU1SvOgT6YVtYOhA0VSM7WSVeyUyaGGQwTnPF&s=10",
+    "image": "spyro-keep-your-horns-on.jpg",
     "voice": null
   },
   {
@@ -428,7 +428,7 @@ export const videoGameQuotes = [
     "game": "Star Fox 64",
     "platform": "N64",
     "year": "1997",
-    "image": "https://i.ytimg.com/vi/RFo8SfQFNak/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLApeVj3faltzekmpB9Sov0vCV6qAQ",
+    "image": "star-fox-do-a.jpg",
     "voice": "star-fox-barrell-roll"
   },
   {
@@ -436,7 +436,7 @@ export const videoGameQuotes = [
     "game": "Star Fox 64",
     "platform": "N64",
     "year": "1997",
-    "image": "https://www.jvgs.net/blog/wp-content/uploads/2016/04/sf64-falco.jpg",
+    "image": "star-fox-hey.jpg",
     "voice": "star-fox-hey-einstein"
   },
   {
@@ -444,7 +444,7 @@ export const videoGameQuotes = [
     "game": "Street Fighter 2",
     "platform": "Multi-Platform",
     "year": "1991",
-    "image": "https://i.imgur.com/rc3l8si.jpeg",
+    "image": "sf2-you-must-defeat.jpeg",
     "voice": null
   },
   {
@@ -452,7 +452,7 @@ export const videoGameQuotes = [
     "game": "Street Fighter 2",
     "platform": "Multi-Platform",
     "year": "1991",
-    "image": "https://cdn.mos.cms.futurecdn.net/b4515bf7d26b7872dcbd647014ac4888.jpg",
+    "image": "sf2-i-will-meditate.jpg",
     "voice": null
   },
   {
@@ -460,15 +460,15 @@ export const videoGameQuotes = [
     "game": "Super Mario Bros 3",
     "platform": "NES",
     "year": "1988",
-    "image": "https://i1.sndcdn.com/artworks-000023642608-64x9d0-t500x500.jpg",
+    "image": "super-mario-bros-3.jpg",
     "voice": null
   },
   {
-    "quote": "Who do you think you are, Bruce Lee? You can't just go in with your fists flying!",
+    "quote": "Who do you think you are, Bruce Lee? You can't just go in there with your fists flying!",
     "game": "Super Mario RPG",
     "platform": "SNES",
     "year": "1996",
-    "image": "https://i.pinimg.com/originals/99/7d/a9/997da9eb7ffebf8d3c2ac926689dd011.gif",
+    "image": "super-mario-rpg.gif",
     "voice": null
   },
   {
@@ -476,7 +476,7 @@ export const videoGameQuotes = [
     "game": "Super Smash Bros",
     "platform": "N64",
     "year": "1999",
-    "image": "https://i1.sndcdn.com/artworks-000457075953-rv8ycq-t1080x1080.jpg",
+    "image": "ssb-free-for-all.jpg",
     "voice": "ssb-free-for-all"
   },
   {
@@ -484,7 +484,7 @@ export const videoGameQuotes = [
     "game": "Super Smash Bros Brawl (Sonic)",
     "platform": "Wii",
     "year": "2008",
-    "image": "https://www.smashbros.com/wii/en_uk/howto/technique/images/technique07/technique07_071113i-l.jpg",
+    "image": "ssbu-youre-too-slow.webp",
     "voice": "ssbu-youre-too-slow"
   },
   {
@@ -492,7 +492,7 @@ export const videoGameQuotes = [
     "game": "Super Smash Bros Brawl/Ultimate (Meta Knight)",
     "platform": "Wii/Switch",
     "year": "2018",
-    "image": "https://i.ytimg.com/vi/j2FpxNh_6XM/hqdefault.jpg",
+    "image": "ssbu-come-back.jpg",
     "voice": "ssbu-come-back"
   },
   {
@@ -500,7 +500,7 @@ export const videoGameQuotes = [
     "game": "The Elder Scrolls V: Skyrim",
     "platform": "Multi-Platform",
     "year": "2011",
-    "image": "https://i.pinimg.com/736x/1c/09/2e/1c092e72fe85f28c0baf0bdf3a315be0.jpg",
+    "image": "skyrim-i-used.jpg",
     "voice": "skyrim-i-used-to"
   },
   {
@@ -508,7 +508,7 @@ export const videoGameQuotes = [
     "game": "The Legend of Zelda",
     "platform": "NES",
     "year": "1986",
-    "image": "https://s3.us-east-005.dream.io/secrettoeverybody/images/grumble.png",
+    "image": "loz-grumble.png",
     "voice": null
   },
   {
@@ -516,7 +516,7 @@ export const videoGameQuotes = [
     "game": "The Legend of Zelda",
     "platform": "NES",
     "year": "1986",
-    "image": "https://static.wikia.nocookie.net/zelda/images/9/99/Secret_Moblin.png/revision/latest?cb=20090930144719",
+    "image": "loz-its-a-secret.webp",
     "voice": null
   },
   {
@@ -524,7 +524,7 @@ export const videoGameQuotes = [
     "game": "The Legend of Zelda",
     "platform": "NES",
     "year": "1986",
-    "image": "https://www.zeldadungeon.net/wiki/images/thumb/f/fc/LoZ_Q_001.png/256px-LoZ_Q_001.png",
+    "image": "loz-its-dangerous.webp",
     "voice": null
   },
   {
@@ -532,7 +532,7 @@ export const videoGameQuotes = [
     "game": "The Legend of Zelda",
     "platform": "NES",
     "year": "1986",
-    "image": "https://s3.us-east-005.dream.io/secrettoeverybody/images/doorrepair.png",
+    "image": "loz-pay-me.png",
     "voice": null
   },
   {
@@ -540,7 +540,7 @@ export const videoGameQuotes = [
     "game": "Undertale",
     "platform": "Multi-Platform",
     "year": "2015",
-    "image": "https://ih1.redbubble.net/image.257256480.6882/flat,750x,075,f-pad,750x1000,f8f8f8.u6.jpg",
+    "image": "undertale-in-this.png",
     "voice": null
   },
   {
@@ -548,7 +548,7 @@ export const videoGameQuotes = [
     "game": "Undertale",
     "platform": "Multi-Platform",
     "year": "2015",
-    "image": "https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fwhat-is-your-interpretation-of-this-line-v0-8z1bnc3wrpdf1.png%3Fauto%3Dwebp%26s%3Dd67f7070a4896f69aa9952a4c6366e3c56b1f1ed",
+    "image": "undertale-since-when.webp",
     "voice": null
   },
   {
@@ -556,7 +556,7 @@ export const videoGameQuotes = [
     "game": "Undertale",
     "platform": "Multi-Platform",
     "year": "2015",
-    "image": "",
+    "image": "undertale-enough.webp",
     "voice": null
   },
   {
@@ -564,7 +564,7 @@ export const videoGameQuotes = [
     "game": "Undertale",
     "platform": "Multi-Platform",
     "year": "2015",
-    "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/055/525/cdd.png",
+    "image": "undertale-arms.png",
     "voice": null
   },
   {
@@ -572,7 +572,7 @@ export const videoGameQuotes = [
     "game": "Undertale",
     "platform": "Multi-Platform",
     "year": "2015",
-    "image": "https://i.ytimg.com/vi/XyuDvD1Bj6I/maxresdefault.jpg",
+    "image": "undertale-youre-blue-now.jpg",
     "voice": null
   },
   {
@@ -580,7 +580,7 @@ export const videoGameQuotes = [
     "game": "Undertale",
     "platform": "Multi-Platform",
     "year": "2015",
-    "image": "https://miro.medium.com/v2/1*kxRoUaT2ikHB4Z0ZwbuRjw.jpeg",
+    "image": "undertale-despite.jpg",
     "voice": null
   },
   {
@@ -588,7 +588,7 @@ export const videoGameQuotes = [
     "game": "X-Men the Arcade Game",
     "platform": "Arcade",
     "year": "1992",
-    "image": "https://i.kym-cdn.com/photos/images/original/001/386/827/636.jpg",
+    "image": "xmen-welcome.jpg",
     "voice": "x-men-welcome"
   },
   {
@@ -596,7 +596,7 @@ export const videoGameQuotes = [
     "game": "X-Men vs Street Fighter",
     "platform": "Arcade, Multi-Platform",
     "year": "1996",
-    "image": "",
+    "image": "xvsf.png",
     "voice": null
   },
   {
@@ -604,7 +604,7 @@ export const videoGameQuotes = [
     "game": "Zelda II: The Adventure of Link",
     "platform": "NES",
     "year": "1987",
-    "image": "https://lobotomyrobot.wordpress.com/wp-content/uploads/2011/05/i_am_error.gif",
+    "image": "zelda-2-i-am-error.gif",
     "voice": null
   },
   {
@@ -612,7 +612,7 @@ export const videoGameQuotes = [
     "game": "Zelda II: The Adventure of Link",
     "platform": "NES",
     "year": "1987",
-    "image": "",
+    "image": "zelda-2-you-have.jpg",
     "voice": null
   },
   {
@@ -620,7 +620,7 @@ export const videoGameQuotes = [
     "game": "Zero Wing",
     "platform": "Arcade, Multi-Platform",
     "year": "1989",
-    "image": "https://share.google/AhKOPNNSyg7oqRRK9",
+    "image": "zero-wing-all-your-base.webp",
     "voice": "zero-wing-all-your-base"
   },
   {
@@ -628,7 +628,7 @@ export const videoGameQuotes = [
     "game": "Zero Wing",
     "platform": "Arcade, Multi-Platform",
     "year": "1989",
-    "image": "https://legendsoflocalization.com/wp-content/uploads/2018/02/zero-wing-english-translation-004.png",
+    "image": "zero-wing-somebody.png",
     "voice": "zero-wing-somebody"
   },
   {
@@ -644,7 +644,7 @@ export const videoGameQuotes = [
     "game": "Castlevania II: Simon's Quest",
     "platform": "NES",
     "year": "1987",
-    "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2020/02/Castlevania-II-Curse-Warning-Screen.jpg?w=1200&h=675&fit=crop",
+    "image": "castlevania-2.webp",
     "voice": null
   },
   {
@@ -652,7 +652,7 @@ export const videoGameQuotes = [
     "game": "Cuphead",
     "platform": "Multi-Platform",
     "year": "2017",
-    "image": "https://i.ytimg.com/vi/yhq3hdepBsQ/hqdefault.jpg",
+    "image": "cuphead-hey-little.jpg",
     "voice": null
   },
   {
@@ -660,7 +660,7 @@ export const videoGameQuotes = [
     "game": "Cuphead",
     "platform": "Multi-Platform",
     "year": "2017",
-    "image": "https://i.ytimg.com/vi/O-pz2IMYdNs/hqdefault.jpg",
+    "image": "cuphead-i-own.jpg",
     "voice": null
   },
   {
@@ -668,7 +668,7 @@ export const videoGameQuotes = [
     "game": "Devil May Cry 3: Dante's Awakening",
     "platform": "PS2",
     "year": "2005",
-    "image": "https://i.ytimg.com/vi/7esod1BFJuI/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AG-B4AC0AWKAgwIABABGGUgYyhEMA8=&rs=AOn4CLAo6b59-tB5iQj2apJ1T8W981QMCw",
+    "image": "dmc3.jpg",
     "voice": "devil-may-cry-3"
   },
   {
@@ -676,7 +676,7 @@ export const videoGameQuotes = [
     "game": "Donkey Kong",
     "platform": "Arcade, NES",
     "year": "1981",
-    "image": "https://pbs.twimg.com/media/Gt0DcRcWsAANfDp.jpg",
+    "image": "dk-how-high.jpg",
     "voice": null
   },
   {
@@ -684,7 +684,7 @@ export const videoGameQuotes = [
     "game": "Donkey Kong Country 2",
     "platform": "SNES",
     "year": "1995",
-    "image": "https://share.google/p0JaMpdwohD3xv1bB",
+    "image": "dkc2.png",
     "voice": null
   },
   {
@@ -692,7 +692,7 @@ export const videoGameQuotes = [
     "game": "Final Fantasy IV",
     "platform": "SNES",
     "year": "1991",
-    "image": "https://legendsoflocalization.com/wp-content/uploads/2018/07/spoony-bard-translation.png",
+    "image": "ff4-you-spoony-bard.png",
     "voice": null
   },
   {
@@ -700,7 +700,7 @@ export const videoGameQuotes = [
     "game": "Ghosts 'n Goblins",
     "platform": "Arcade, NES",
     "year": "1985",
-    "image": "https://i.ytimg.com/vi/1DKktpamPCU/sddefault.jpg",
+    "image": "ghosts-n-goblins.jpg",
     "voice": null
   },
   {
@@ -708,7 +708,7 @@ export const videoGameQuotes = [
     "game": "God of War III",
     "platform": "PS3",
     "year": "2010",
-    "image": "https://i.ytimg.com/vi/FTqjdyZsitk/maxresdefault.jpg",
+    "image": "god-of-war-3.jpg",
     "voice": "god-of-war-3"
   },
   {
@@ -716,7 +716,7 @@ export const videoGameQuotes = [
     "game": "GTA 5",
     "platform": "Multi-Platform",
     "year": "2013",
-    "image": "https://i.ytimg.com/vi/ZjKZcE-ktL0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDpIukR_BYNk73lB-wXuCGflXrnLw",
+    "image": "gta5-but-i-did.gif",
     "voice": "gta5-what-kind-of"
   },
   {
@@ -724,7 +724,7 @@ export const videoGameQuotes = [
     "game": "GTA 5",
     "platform": "Multi-Platform",
     "year": "2013",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB87GDKmfRH4dpzFIHe3vq9v-y0MrkF-dfNIyDYh05Iw&s",
+    "image": "gta5-oh-i-love.jpg",
     "voice": "gta5-oh-i-love-you"
   },
   {
@@ -732,7 +732,7 @@ export const videoGameQuotes = [
     "game": "GTA: San Andreas",
     "platform": "PS2, Xbox",
     "year": "2004",
-    "image": "https://en.meming.world/images/en/6/62/Ah_Shit%2C_Here_We_Go_Again.jpg",
+    "image": "gta-sa-ah-shit.gif",
     "voice": "gta-sa-ah-shit"
   },
   {
@@ -740,7 +740,7 @@ export const videoGameQuotes = [
     "game": "Halo 2",
     "platform": "Xbox",
     "year": "2004",
-    "image": "",
+    "image": "halo-2-sir-finishing.jpg",
     "voice": "halo-2-sir-finishing"
   },
   {
@@ -748,7 +748,7 @@ export const videoGameQuotes = [
     "game": "Halo 2",
     "platform": "Xbox",
     "year": "2004",
-    "image": "https://i.ytimg.com/vi/A5UH7qYZjRg/oar2.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLAgrYTm48A5o3EHONtBZ6NVMsuUGQ&usqp=CCk",
+    "image": "halo-2-me-inside.jpg",
     "voice": "halo-2-me"
   },
   {
@@ -756,7 +756,7 @@ export const videoGameQuotes = [
     "game": "Marvel vs Capcom 3",
     "platform": "PS3, Xbox 360",
     "year": "2011",
-    "image": "https://i.ytimg.com/vi/LczgFwi6sBs/sddefault.jpg",
+    "image": "mvc3-healthbar.gif",
     "voice": "mvc3-deadpool"
   }
 ]
