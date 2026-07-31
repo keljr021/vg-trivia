@@ -228,7 +228,7 @@ export const videoGameQuotes = [
     "game": "Mortal Kombat 3",
     "platform": "Arcade, Multi-Platform",
     "year": "1995",
-    "image": "",
+    "image": "mortal-kombat-3-its-official.webp",
     "voice": "mortal-kombat-3-its-official"
   },
   {
@@ -384,11 +384,11 @@ export const videoGameQuotes = [
     "voice": "shadow-the-hedgehog"
   },
   {
-    "quote": "Get a load of THIS!!",
+    "quote": "Get a load of this!",
     "game": "Sonic Adventure",
     "platform": "Sega Dreamcast",
     "year": "1998",
-    "image": "",
+    "image": "sonic-adventure.png",
     "voice": "sonic-adventure-get"
   },
   {

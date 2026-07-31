@@ -4,8 +4,8 @@
             {{ number }}
 
             <div class="mx-[35%] mt-2 opacity-35">
-              <AudioLines v-if="hasAudio" :size="18" />
-              <Image v-if="hasImage" :size="18" />
+              <Play v-if="hasAudio" :size="18" />
+              <PlayOff v-if="!hasAudio" :size="18" />
             </div>
         </div>
    </div>
@@ -14,7 +14,7 @@
 <script setup>
 import { useTallyStore } from './../store/tally.js';
 import { useRouter } from 'vue-router'
-import { AudioLines, Image } from '@lucide/vue';
+import { Play, PlayOff } from '@lucide/vue';
 
 const tallyStore = useTallyStore();
 const router = useRouter();
@@ -30,11 +30,7 @@ const props = defineProps({
   hasAudio: {
     type: Boolean,
     default: false,
-  },
-  hasImage: {
-    type: Boolean,
-    default: false
-  },
+  }
 });
 
 const handleClick = async () => {

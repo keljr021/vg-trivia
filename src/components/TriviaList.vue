@@ -4,8 +4,7 @@
         <trivia-list-item 
           :number="(i)" 
           :isSelected="checkIfAlreadySelected(i)" 
-          :hasAudio="checkIfItemHasAudio(i)" 
-          :hasImage="checkIfItemHasImage(i)"/>
+          :hasAudio="checkIfItemHasAudio(i)"/>
     </div>
   </div>
 </template>
@@ -37,11 +36,6 @@ const checkIfAlreadySelected = (id) => {
 const checkIfItemHasAudio = (id) => {
   let targetItem = videoGameQuotes[id-1];
   return !!(targetItem.voice);
-}
-
-const checkIfItemHasImage = (id) => {
-  let targetItem = videoGameQuotes[id-1];
-  return !!(targetItem.image);
 }
 
 onMounted(() => {

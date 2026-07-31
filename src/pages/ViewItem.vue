@@ -14,7 +14,7 @@
 
                 <div v-if="item.voice">
                     <button class="view-item-button" @click="playVoice">
-                        <Headphones />
+                        <Play />
                     </button>
                 </div>
 
@@ -45,7 +45,7 @@
 import { ref, computed, onMounted } from 'vue'
 import { useRouter } from 'vue-router'
 import videoGameQuotes from './../data/videoGameQuotes.js'
-import { Headphones } from '@lucide/vue';
+import { Play } from '@lucide/vue';
 import defaultVoiceSrc from './../audio/jill-sandwitch.ogg';
 
 const router = useRouter();
