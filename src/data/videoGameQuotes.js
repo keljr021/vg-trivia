@@ -160,7 +160,7 @@ export const videoGameQuotes = [
     "voice": "mvc3-zero"
   },
   {
-    "quote": "My feet need exercise. Get up!!",
+    "quote": "My feet need exercise...Get up!!",
     "game": "Marvel vs Street Fighter",
     "platform": "Arcade, Multi-Platform",
     "year": "1997",
@@ -406,14 +406,6 @@ export const videoGameQuotes = [
     "year": "2001",
     "image": "sa2-i-found-you.jpeg",
     "voice": "sa2-i-found-you"
-  },
-  {
-    "quote": "Let's blast right through with Sonic speed! O-K! All right!",
-    "game": "Sonic Heroes",
-    "platform": "Multi-Platform",
-    "year": "2003",
-    "image": "sonic-heroes.jpg",
-    "voice": "sonic-heroes"
   },
   {
     "quote": "Keep your horns on _ ! You have much to learn first!",
