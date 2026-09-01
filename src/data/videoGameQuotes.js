@@ -344,7 +344,7 @@ export const videoGameQuotes = [
     "voice": "pokemon-stadium-congratulations"
   },
   {
-    "quote": "Do you understand what I'm saying? At all? Does any of this make any sense? Just tell me, 'Yes'.",
+    "quote": "Do you understand what I'm saying? At all? Does any of this make any sense? Just tell me, just say Yes.",
     "game": "Portal 2",
     "platform": "Multi-Platform",
     "year": "2011",
@@ -608,7 +608,7 @@ export const videoGameQuotes = [
     "voice": null
   },
   {
-    "quote": "All your base has belong to us.",
+    "quote": "All your base are belong to us.",
     "game": "Zero Wing",
     "platform": "Arcade, Multi-Platform",
     "year": "1989",

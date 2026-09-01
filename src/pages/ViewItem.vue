@@ -115,5 +115,9 @@ const backToList = () => {
 
 onMounted(() => {
     fetchItem(props.id);
+
+    if (item.value?.voice !== null) {
+        playVoice();
+    }
 });
 </script>
