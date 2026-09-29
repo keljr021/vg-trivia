@@ -6,6 +6,8 @@ This project displays a front-end list with a random quote from a video game whe
 
 Clicking the answer button will display an image with the game information below.
 
+After selection, the project uses local storage to save the items previously clicked, and will make the item transparent.
+
 
 # Vue 3 + Vite
 
